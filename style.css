@@ -1,11 +1,21 @@
-
+/* color change for heading*/
 h2{
    
     color: crimson;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;;
 }
-
+/*color changes for links*/
+a{
+    color:red;
+    text-decoration:none;
+}
+a:hover{
+    color:crimson;
+    text-decoration: none;
+}
+/* general fonts and colors*/
 body{
     background-color:black;
     color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;;
+    font-size: large;
 }
